@@ -1,32 +1,38 @@
 ### Emmanuel Moreira (Manú)
 
-
 <div>     
   <a href="https:/beacons.ai/emmanuelmoreira">     
-    <img src="https://avatars.githubusercontent.com/u/15871066?v=4" height="150" width="150"/>     
-  </a>
+    <img src="https://avatars.githubusercontent.com/u/15871066?v=4" height="100" width="100"/>     
+  </a>  
+
+  <span>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+     exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+     pariatur.
+  </span>
+</div>
   
+  <br><br>
+<div>
   <a href="https://github.com/emmanuelmoreira">
    <img src="https://github-readme-stats.vercel.app/api?username=emmanuelmoreira&theme=blue-green" />    
   </a>
   
   <a href="https://github.com/emmanuelmoreira">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelmoreira&theme=blue-green"/>
-  </a>
-  
-   <span>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-     exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-     pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  </span>
-</div>  
+  </a>  
+</div>
+
+<br>
+<br>
+
 <div>
   <a href="https://www.youtube.com/c/emmanuelmoreira">     
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> 
   </a>
   
 <a href="https://www.linkedin.com/in/emmanuel-moreira/"> 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
     
 <a href="mailto:emmanuelmoreira@gmail.com">              
@@ -38,11 +44,12 @@
   <a href="https://beacons.ai/emmanuelmoreira">     <img src=" https://img.shields.io/badge/Beacons-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
-  
+
+<div>  
 <a href="https://github.com/emmanuelmoreira" >
     <img src="https://komarev.com/ghpvc/?username=emmanuelmoreira&color=green" alt="emmanuelmoreira" align="right" /> 
-</a>
-  </div>
+</a>  
+</div>
  
 <!--
 <a href="#">     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
@@ -71,7 +78,6 @@
 -->
 
 
-</div>
 
 <!--
 **emmanuelmoreira/emmanuelmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
